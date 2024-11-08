@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Homepage
+title: Licencjonowanie
 ---
-asdasda
-asdasda
+
+Jeśli interesuje Cię wgranie licencji bezpośrednio na sterownik, przejdż [tutaj](/target/)
+
+
+Jeśli interesuje Cię wgranie licencji na moduł EL6070 lub klucz USB, przejdż [tutaj](/dongle/)

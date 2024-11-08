@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Licencjowanie
-permalink: /licencjonowanie/
+title: Target
+permalink: /Target/
 ---
 
 # Licencjonowanie Target 
