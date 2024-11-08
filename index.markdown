@@ -6,10 +6,10 @@ layout: page
 title: Licencjonowanie
 ---
 
-Jeśli interesuje Cię wgranie licencji bezpośrednio na sterownik, przejdż [tutaj](https://patjas211.github.io/site1/Target/)
+Jeśli interesuje Cię wgranie licencji bezpośrednio na sterownik, przejdż [tutaj](/Target.markdown)
 
 ![target1](/Files/target.png)
 
-Jeśli interesuje Cię wgranie licencji na moduł EL6070 lub klucz USB, przejdż [tutaj](https://patjas211.github.io/site1/Dongle/)
+Jeśli interesuje Cię wgranie licencji na moduł EL6070 lub klucz USB, przejdż [tutaj](/Dongle.markdown)
 
 ![dongle2](/Files/dongle.png)
